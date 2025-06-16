@@ -34,6 +34,8 @@ The real pleasure? It's hidden behind one click. And it's waiting for you.
 Unlock now and come taste what you've only dreamed about.
 
 👉 Tap to unlock. I’ll be waiting... wearing nothing but a smile. 😈
+
+👉 https://encr.pw/elarisvip
     """
     await context.bot.send_message(chat_id=update.effective_chat.id, text=msg)
 
